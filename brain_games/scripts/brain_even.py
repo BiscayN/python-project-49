@@ -23,14 +23,16 @@ def main():
             if user_answer == 'yes':
                 print('Correct!')
             else:
-                print(f"'{user_answer}' is wrong answer ;(. Correct answer was 'yes'.")
+                print(f"'{user_answer}' is wrong answer "
+                      f";(. Correct answer was 'yes'.")
                 print(f"Let's try again, {name}!")
                 exit(0)
         else:
             if user_answer == 'no':
                 print('Correct!')
             else:
-                print(f"'{user_answer}' is wrong answer ;(. Correct answer was 'no'.")
+                print(f"'{user_answer}' is wrong answer "
+                      f";(. Correct answer was 'no'.")
                 print(f"Let's try again, {name}!")
                 exit(0)
         counter += 1

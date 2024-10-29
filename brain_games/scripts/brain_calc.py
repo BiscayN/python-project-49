@@ -26,7 +26,8 @@ def main():
         if str(eval(question)) == str(user_answer):
             print('Correct!')
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{eval(question)}'")
+            print(f"'{user_answer}' is wrong answer "
+                  f";(. Correct answer was '{eval(question)}'")
             print(f"Let's try again, {name}!")
             exit(0)
         counter += 1

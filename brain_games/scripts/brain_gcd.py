@@ -24,7 +24,8 @@ def main():
         if user_answer == str(gcd(num1, num2)):
             print('Correct!')
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{gcd(num1, num2)}'.")
+            print(f"'{user_answer}' is wrong answer "
+                  f";(. Correct answer was '{gcd(num1, num2)}'.")
             print(f"Let's try again, {name}!")
             exit(0)
         counter += 1

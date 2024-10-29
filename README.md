@@ -13,3 +13,6 @@
 
 ### Brain-Gcd Test:
 [![asciicast](https://asciinema.org/a/Sx9fBpsgZRe3CRAhZfg5HmU8Y.svg)](https://asciinema.org/a/Sx9fBpsgZRe3CRAhZfg5HmU8Y)
+
+### Brain-Progression Test:
+[![asciicast](https://asciinema.org/a/bas44UDYztpBdyHiJj0qDa0Xo.svg)](https://asciinema.org/a/bas44UDYztpBdyHiJj0qDa0Xo)
