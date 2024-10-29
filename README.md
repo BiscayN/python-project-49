@@ -10,3 +10,6 @@
 
 ### Brain-Calc Test:
 [![asciicast](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi.svg)](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi)
+
+### Brain-Gcd Test:
+[![asciicast](https://asciinema.org/a/Sx9fBpsgZRe3CRAhZfg5HmU8Y.svg)](https://asciinema.org/a/Sx9fBpsgZRe3CRAhZfg5HmU8Y)
