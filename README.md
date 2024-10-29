@@ -7,3 +7,6 @@
 
 ### Brain-Even Test:
 [![asciicast](https://asciinema.org/a/qZlswideTs2fVDc6qpCy2EsIc.svg)](https://asciinema.org/a/qZlswideTs2fVDc6qpCy2EsIc)
+
+### Brain-Calc Test:
+[![asciicast](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi.svg)](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi)
