@@ -16,3 +16,6 @@
 
 ### Brain-Progression Test:
 [![asciicast](https://asciinema.org/a/bas44UDYztpBdyHiJj0qDa0Xo.svg)](https://asciinema.org/a/bas44UDYztpBdyHiJj0qDa0Xo)
+
+### Brain-Prime Test:
+[![asciicast](https://asciinema.org/a/3PXh4kUyKHO2QBx6Q9z76mIsH.svg)](https://asciinema.org/a/3PXh4kUyKHO2QBx6Q9z76mIsH)
