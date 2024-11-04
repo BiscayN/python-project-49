@@ -5,8 +5,8 @@
 ### CodeClimate status: 
 [![Maintainability](https://api.codeclimate.com/v1/badges/83457b9fd7b67208524c/maintainability)](https://codeclimate.com/github/BiscayN/python-project-49/maintainability)
 
-### Brain-Even Test:
-[![asciicast](https://asciinema.org/a/qZlswideTs2fVDc6qpCy2EsIc.svg)](https://asciinema.org/a/qZlswideTs2fVDc6qpCy2EsIc)
+### Installation + Brain-Even Test:
+[![asciicast](https://asciinema.org/a/o8piEMzeBVbrdPDk2HWSqF5Zz.svg)](https://asciinema.org/a/o8piEMzeBVbrdPDk2HWSqF5Zz)
 
 ### Brain-Calc Test:
 [![asciicast](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi.svg)](https://asciinema.org/a/mkMowswaIrjQpgW8QyvtBGrHi)

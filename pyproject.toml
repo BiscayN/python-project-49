@@ -1,9 +1,13 @@
 [tool.poetry]
 name = "first-project"
 version = "0.1.0"
-description = ""
+description = "A pack of mathematical games, which launches from Linux terminal. Written on Python."
+classifiers = [
+    "Topic :: Games/Entertainment",
+]
 authors = ["Maxim Nazarov <nazarov010203@yandex.ru>"]
 readme = "README.md"
+repository = "https://github.com/BiscayN/python-project-49"
 packages = [
   { include = "brain_games" },
 ]
