@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "first-project"
+name = "hexlet-code"
 version = "0.1.0"
 description = "A pack of mathematical games, which launches from Linux terminal. Written on Python."
 classifiers = [
